@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="480">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
 
@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Kenya+%F0%9F%87%B0%F0%9F%87%AA+%C2%B7+remote+worldwide+%F0%9F%8C%8D+%C2%B7+open+to+freelance+%2B+full-time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Kenya+%F0%9F%87%B0%F0%9F%87%AA+%C2%B7+remote+worldwide+%F0%9F%8C%8D" />
 </div>
 
 <br/>
@@ -35,20 +35,15 @@
 ```bash
 > const dev = {
     name: "Jude Maundu",
-    location: "Kenya 🇰🇪, remote worldwide",
+    location: "Kenya",
     role: "Software Developer",
-    focus: ["Full-stack web", "Mobile (Kotlin)", "AI-driven products"],
-    education: [
-      "eMobilis — Software Development",
-      "Institute of Software Technology — Diploma",
-      "→ pursuing: BSc Software Engineering"
-    ],
+    trained_at: ["eMobilis — Software Development", "Institute of Software Technology — Diploma"],
+    next_up: "Degree in Software Engineering",
     currently: {
-      shipping: "Django/Laravel APIs + React/Vue frontends",
-      building: "native Android apps in Kotlin",
-      exploring: "applied AI — audio processing, LLM-backed tooling"
+      building: "web, mobile & AI-driven products",
+      freelancing: true,
+      shipping_kotlin_apps: true
     },
-    freelance: true,
     offline: ["hockey field 🏒", "church ⛪"],
     motto: "always shipping, always learning"
   };
@@ -56,34 +51,17 @@
 
 ---
 
-<h3>⚡ <code>$ ./stack.sh --breakdown</code></h3>
+<h3>⚡ <code>$ ./skills.sh --render</code></h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,kotlin,js,react,nodejs,mongodb,vue,laravel,php,mysql,linux,git,html,css&theme=dark&perline=8" />
 </div>
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
+<div align="center">
 
-**Backend**
-`Python` `Django` `Laravel/PHP` `Node.js` `REST APIs`
+`Python 88%` `Django 82%` `JavaScript 85%` `React 80%` `Kotlin 72%` `Node.js 78%` `Vue.js 75%` `Laravel 74%` `MySQL 80%` `Linux 78%`
 
-</td>
-<td valign="top" width="33%">
-
-**Frontend**
-`JavaScript` `React` `Vue.js` `HTML/CSS`
-
-</td>
-<td valign="top" width="33%">
-
-**Mobile / Data**
-`Kotlin` `Android` `MySQL` `MongoDB`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -108,43 +86,43 @@
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
-
-**📦 [Grey Apple IMS](https://github.com/JOMO418/Grey-Apple-IMS)**
-`PHP` `MySQL` `Dashboard`
-Full inventory management system — stock, sales, suppliers, reporting, and an admin dashboard built for real operational use.
-
-</td>
-<td width="50%" valign="top">
-
-**🔧 [HandyGo](https://github.com/Jude-Maundu/handy-go-app)**
-`Flutter` `Dart` `Mobile`
-On-demand home services app — "Uber for fundis" — connects users to local repair professionals.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎙️ [Diarizer](https://github.com/Jude-Maundu/Diarizer-Backend)**
-`Python` `Django` `Audio AI`
-Backend that runs speaker diarization on audio and exports clean, formatted transcripts as Word docs.
-
-</td>
-<td width="50%" valign="top">
+<td width="50%">
 
 **📸 [Photo Marketplace](https://github.com/Jude-Maundu/PM-Frontend)**
 `JavaScript` `CSS` `E-commerce`
-SPA marketplace for creators to list and sell photos — browsing, cart, and checkout flow.
+Marketplace for creators to list & sell photos — browse, cart and checkout, built as a JS SPA.
+
+</td>
+<td width="50%">
+
+**🔧 [HandyGo](https://github.com/Jude-Maundu/handy-go-app)**
+`Flutter` `Dart` `Mobile`
+On-demand services app — "Uber for home repairs" — connecting users to local fundis.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" colspan="2" align="center">
+<td width="50%">
+
+**🎙️ [Diarizer](https://github.com/Jude-Maundu/Diarizer-Backend)**
+`Python` `Django` `Audio AI`
+Django backend that runs speaker diarization on audio and exports clean, formatted Word docs.
+
+</td>
+<td width="50%">
 
 **⛪ [Church Website](https://github.com/Jude-Maundu/Church)**
 `TypeScript` `JavaScript` `Responsive`
-Modern, responsive site for a church community — service times, events, and outreach info.
+Modern, responsive site for a church — service times, events & community info.
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2" align="center">
+
+**📦 [Grey Apple IMS](https://github.com/JOMO418/Grey-Apple-IMS)**
+`PHP` `MySQL` `Dashboard`
+Full inventory management system — stock, sales, suppliers, reporting & admin dashboard.
 
 </td>
 </tr>
@@ -163,14 +141,14 @@ Modern, responsive site for a church community — service times, events, and ou
 <h3>🧭 <code>$ history --experience</code></h3>
 
 ```text
-2023 — present   Freelance Full-Stack Developer · Self-employed
+2023 — present   Freelance Full-Stack Developer, Self-employed
                  Django · Laravel · React · Vue.js · MySQL · payments integration
 
-2022 — present   Android Developer · Personal & client projects
+2022 — present   Android Developer, Personal Projects
                  Kotlin · Android · Firebase
 
 ongoing          Open Source & Continuous Learning · @Jude-Maundu
-                 Git & GitHub · Linux · applied AI tooling
+                 Git & GitHub · Linux · AI tooling
 ```
 
 ---
